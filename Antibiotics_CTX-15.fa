@@ -1,0 +1,60 @@
+>70-tem8674, bla-TEM, Beta-lactams Antibiotic resistance (ampicillin), Unknown sp. [Beta-lactams]
+AAAGTTCTGCTATGTGGCGCGGTATTATCCCGTGTTGACGCCGGGCAAGAGCAACTCGGTCGCCGCATAC
+>70-shv86, bla-SHV, Beta-lactams Antibiotic resistance (ampicillin), Unknown sp. [Beta-lactams]
+CTCAAGCGGCTGCGGGCTGGCGTGTACCGCCAGCGGCAGGGTGGCTAACAGGGAGATAATACACAGGCGA
+>70-oxa(1)256, bla-OXA-1, Beta-lactams Antibiotic resistance (ampicillin), Unknown sp. [Beta-lactams]
+AAACAACCTTCAGTTCCTTCAAATAATGGAGATGCGACAGTAGAGATATCTGTTGATGCACTGGCGCTGC
+>70-oxa(7)295, bla-OXA-7, Beta-lactams Antibiotic resistance (ampicillin), Unknown sp. [Beta-lactams]
+GTAGCGCAGGCTAATTTACTGCTACTTTTACAAAGCACGAAAACACCATTGACGGCTTCGGCAGAGAACT
+>70-pse(4)348, bla-PSE-4, Beta-lactams Antibiotic resistance (ampicillin), Unknown sp. [Beta-lactams]
+CGCTGATTGCCATTGTAATCCCAATATTCTCCATTTTGAGTATCAAGAACGGAAACACCTATACGAGCAG
+>EC958-CTX-15, bla-CTX-M-15, Beta-lactams Antibiotic resistance (ampicillin), Unknown sp. [Beta-lactams]
+ATACAGCGGCACACTTCCTAACAACAGCGTGACGGTTGCCGTCGCCATCAGCGTGAACTGGCGCAGTGA
+>70-aadA1588, ant(3'')-Ia, Aminoglycosides Antibiotic resistance (streptomycin;spectinomycin), Unknown sp. [Aminoglycosides]
+ATGATGTCGTCGTGCACAACAATGGTGACTTCTACAGCGCGGAGAATCTCGCTCTCTCCAGGGGAAGCCG
+>70-aadB1778, ant(2'')-Ia, Aminoglycosides Antibiotic resistance (kanamycin;neomycin;gentamicin), Unknown sp. [Aminoglycosides]
+CCCGAGTGAGGTGCATGCGAGCCTGTAGGACTCTATGTGCTTTGTAGGCCAGTCCACTGGTGGTACTTCA
+>70-aacC(2)200, aac(3)-Iia, Aminoglycosides Antibiotic resistance (gentamicin), Unknown sp. [Aminoglycosides]
+CACCGGTTTGGACTCCGAGTTTTCGAATTGCCTCCGTTATTGCCTTCCGCGTATGCATCGCGATATCTCC
+>70-aac3(IV)380, aac(3)-IV, Aminoglycosides Antibiotic resistance (gentamicin), Unknown sp. [Aminoglycosides]
+TCGATCAGTCCAAGTGGCCCATCTTCGAGGGGCCGGACGCTACGGAAGGAGCTGTGGACCAGCAGCACAC
+>70-aphA(1)1310, aph(3')-Ia, Aminoglycosides Antibiotic resistance (kanamycin;neomycin), Unknown sp. [Aminoglycosides]
+GGCGCATCGGGCTTCCCATACAATCGATAGATTGTCGCACCTGATTGCCCGACATTATCGCGAGCCCATT
+>70-aphA(2)220, aph(3')-Iia, Aminoglycosides Antibiotic resistance (kanamycin;neomycin), Unknown sp. [Aminoglycosides]
+AGTCATAGCCGAATAGCCTCTCCACCCAAGCGGCCGGAGAACCTGCGTGCAATCCATCTTGTTCAATCAT
+>70-tetA1390, tet(A), Tetracycline Antibiotic resistance (tetracycline), Unknown sp. [Tetracycline]
+GATGCCGACAGCGTCGAGCGCGACAGTGCTCAGAATTACGATCAGGGGTATGTTGGGTTTCACGTCTGGC
+>70-tetB190, tet(B), Tetracycline Antibiotic resistance (tetracycline), Unknown sp. [Tetracycline]
+CAAAGTGGTTAGCGATATCTTCCGAAGCAATAAATTCACGTAATAACGTTGGCAAGACTGGCATGATAAG
+>70-tetC130, tet(C), Tetracycline Antibiotic resistance (tetracycline), Unknown sp. [Tetracycline]
+GACTGGCGATGCTGTCGGAATGGACGATATCCCGCAAGAGGCCCGGCAGTACCGGCATAACCAAGCCTAT
+>70-tetD1770, tet(D), Tetracycline Antibiotic resistance (tetracycline), Unknown sp. [Tetracycline]
+CAAACGCGGCACCCGCCAGGGATAACAGCAGCACCGGTCTGCGCCCCAGCTTATCTGACCATCTGCCCAG
+>70-tetE370, tet(E), Tetracycline Antibiotic resistance (tetracycline), Unknown sp. [Tetracycline]
+GTTGAGGCTGCAACAGCTCCAGTCGCACCGGTAATACCAGCAATTAAGCGTCCCAAATACAACACCCACA
+>70-tetY1770, tet(Y), Tetracycline Antibiotic resistance (tetracycline), Unknown sp. [Tetracycline]
+TTAATAAAGCCGGAACCACCGGCATGATTAATCCCAAACCAATCGCATCAAGCGCGACAACAATGAGTGC
+>70-cat(1)550, catI, Phenicols Antibiotic resistance (chloramphenicol), Unknown sp. [Phenicols]
+TTTACGGTCTTTAAAAAGGCCGTAATATCCAGCTGAACGGTCTGGTTATAGGTACATTGAGCAACTGACT
+>70-cat(2)300, catII, Phenicols Antibiotic resistance (chloramphenicol), Unknown sp. [Phenicols]
+AGCGGTAATATCGAGTTTGGTGGTCAGGCTGAATCCGCATTTAATCTGCTGACGATAAAGGGCAAAGTGT
+>70-cat(3)370, catIII, Phenicols Antibiotic resistance (chloramphenicol), Unknown sp. [Phenicols]
+TTTGCTTGTTAAGCTAAAACCACATGGTAAACGATGCCGATAAAACTCAAAATGCTCACGGCGAACCCAA
+>70-floR384, floR, Phenicols Antibiotic resistance (florfenicol;chloramphenicol), Unknown sp. [Phenicols]
+GACAAAGGCCGGTGCAGTTGAAGACCAAGCTGCTCCCAGAGACGCAATGACGAAAGCCGTTGCGCCCGCA
+>70-dhfr(1)490, dhfrI, Trimethoprim Antibiotic resistance (trimethoprim), Unknown sp. [Trimethoprim]
+GGTTAAAGCATCTTTAATTGATGGAAAGATCAATACGTTCTCATTGTCAGATGTAAAACTTGAACGTGTT
+>70-dhfr(5)1560, dhfrV, Trimethoprim Antibiotic resistance (trimethoprim), Unknown sp. [Trimethoprim]
+GTACATGGCCTCTTCGATCGACGGGAATACTATTACGTTGTCATTATCGGCCGTCCAGGCTGAGCGAGTA
+>70-dhfr(7)753, dhfrVII, Trimethoprim Antibiotic resistance (trimethoprim), Unknown sp. [Trimethoprim]
+GAACACCCATAGAGTCAAATGTTTTCCTTCCAACAAGGAGCCACTGATTATATGTGAGCGCTTTAAAGAG
+>70-dhfr(9)830, dhfrIX, Trimethoprim Antibiotic resistance (trimethoprim), Unknown sp. [Trimethoprim]
+AGCTTTGAAGTGTTTTAAATCTTCTGGTTCATGCCACGGAATCTGATTTTCAAATCCGATACCTCCTGTC
+>70-dhfr(13)929, dhfrXIII, Trimethoprim Antibiotic resistance (trimethoprim), Unknown sp. [Trimethoprim]
+TGGCGCGAGAGCACCACTGTGTGGCGGTTTGGTAAGGGCTTGCCTATGGACTCAAATGTCTTGCGGCCCA
+>70-dhfr(15)620, dhfrXV, Trimethoprim Antibiotic resistance (trimethoprim), Unknown sp. [Trimethoprim]
+CTTCAGATGATTTAGCGCTTCATCGATAGATGGAAATACCAATACATTCTCATCACTGGAAGTGAAGCTT
+>70-sul(1)960, sulI, Sulfonamides Antibiotic resistance (sulfonamides), Unknown sp. [Sulfonamides]
+AGCGCCGGCGGGGTCTAGCCGCCGGCTCTCATCGAAGAAGGAGTCCTCGGTGAGATTCAGAATGCCGAAC
+>70-sul(2)420, sulII, Sulfonamides Antibiotic resistance (sulfonamides), Unknown sp. [Sulfonamides]
+TACGCGCCTGCGCAATGGCTGCGTCTGGCGCCAGATACCGGCCTCCATCGGAGAAACTGTCCGAGGTTAT
