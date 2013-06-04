@@ -4,7 +4,6 @@ VFDB
 The virulence factor/regions of interest databases used in the ST131 project.
 
 MANIFEST:
-
     * ALL_FEATURES.fa (concatenation of all unique features)
     * Antibiotics.fa (bla-CTX-M-1 for CTX-15)
     * Antibiotics_CTX-15.fa
