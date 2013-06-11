@@ -21,3 +21,24 @@ MANIFEST:
       Iron_uptake, Other_virulence_genes, Toxins, UPEC_specific_genes)
     * Toxins.fa
     * UPEC_specific_genes.fa
+
+The following were duplicates across the pooled database:
+    * c0393
+    * c4308
+    * c3610
+    * c3619
+    * c2436
+    * c1374
+    * c2482
+    * c2775
+
+**On the 07/06/2013 Mat Upton pointed out that there was an issues with some
+sequences in the database. This was due to a bug in the KEGG extract script.**
+
+The following databases are not effected:
+    * Antibiotics.fa & Antibiotics_CTX-15.fa
+    * fimB.fa
+    * Islands.fa
+    * Islands_500bp_chunks.fa
+    * O_antigen.fa
+    * plasmid_replicons.fa
