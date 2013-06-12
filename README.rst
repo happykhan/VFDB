@@ -7,9 +7,9 @@ MANIFEST:
     * ALL_FEATURES.fa (concatenation of all unique features)
     * Antibiotics.fa (bla-CTX-M-1 for CTX-15)
     * Antibiotics_CTX-15.fa
-    * Autotransporters.fa (42)
+    * Autotransporters.fa (42). Based on Wells et al. (FIXED) 
     * Colicins_and_microcins.fa (21)
-    * CU_fimbriae.fa (38)
+    * CU_fimbriae.fa (38). Based on  Wurpel et al. (FIXED)
     * fimB.fa (wt and IS)
     * Iron_uptake.fa (15) (FIXED)
     * Islands.fa (not if SeqFindR format, use chunk_mfa.py)
@@ -37,8 +37,20 @@ sequences in the database. This was due to a bug in the KEGG extract script.**
 
 The following databases are not effected:
     * Antibiotics.fa & Antibiotics_CTX-15.fa
+    * Colicins_and_microcins.fa
     * fimB.fa
     * Islands.fa
     * Islands_500bp_chunks.fa
+    * Other_virulence_genes.fa
     * O_antigen.fa
     * plasmid_replicons.fa
+
+
+Suggested labels:
+    * CU fimbriae
+    * Autotransporters
+    * Toxins
+    * Iron uptake
+    * Colicins and microcins
+    * Other virulence genes
+    * UPEC specific genes
