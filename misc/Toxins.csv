@@ -1,0 +1,5 @@
+locus tag,Gene,Product,Strain,Annotation,class
+c3570,hlyA,HlyA,CFT073,Hemolysin,ecc
+UTI89_c4921,cnf1,CNF1,UTI89,cytotoxic necrotizing factor 1,eci
+UTI89_c2222,clbB,ClbB,UTI89,Colibactin,eci
+c0363,tosA,TosA,CFT073,RTX toxin,ecc

@@ -1,0 +1,16 @@
+locus tag,Gene,Product,Strain,Receptor substrate,substrate type,class
+c1250,fepA,FepA,CFT073,enterobactin ,catecholate,ecc
+c3610,iha,Iha,CFT073,enterobactin ,catecholate,ecc
+c0669,iroN,IroN,CFT073,salmochelin,catecholate,ecc
+c0890,fiu,Fiu,CFT073,DBS; DHB,catecholate,ecc
+c2690,cirA,CirA,CFT073,DBS; DHB,catecholate,ecc
+c3623,iutA,IutA,CFT073,aerobactin,Hydroxymate,ecc
+c0185,fhuA,FhuA,CFT073,Ferrichrome,Hydroxymate,ecc
+c1374,fhuE,FhuE,CFT073,coprogen; rhodotorulic acid,Hydroxymate,ecc
+c2436,fyuA,FyuA,CFT073,yersiniabactin,Mixed,ecc
+c4308,chuA,ChuA,CFT073,Heme,NA,ecc
+c2482,hma,Hma,CFT073,Heme,NA,ecc
+AF320691,ireA,IreA,CP9,,,*
+c1600,sitA,SitA,CFT073,,,ecc
+b4291,fecA,FecA,MG1655,,,eco
+c0133,c0133,colicin,CFT073,,,ecc
