@@ -2,7 +2,7 @@ import sys
 import textwrap
 
 
-def chunk(l, n=2000):
+def chunk(l, n=500):
     """ 
     Yield successive n-sized chunks from l.
     """
